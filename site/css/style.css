@@ -1,0 +1,6 @@
+.firsthorizontalnav {
+	margin-bottom: 15px;
+}
+.firsthorizontalnav nav ul li {
+	display: inline-block;
+}

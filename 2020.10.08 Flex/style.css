@@ -1,0 +1,81 @@
+* {
+	box-sizing: border-box;
+	margin: 5px;
+	color: white;
+	font-family: Sans-serif;
+	text-align: center;
+}
+body {
+	height: 100%;
+	 padding: 0;
+  	margin: 0;
+}
+header {
+	height: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	background-color: #4fc8f0;
+}
+.content {
+	display: flex;
+	justify-content: start;
+}
+.Hero {
+	background-color: #bd8dc2;
+	flex: 2;
+}
+.ExtraContent {
+	background-color: #7a7a76;
+	flex: 4;
+}
+.Images {
+	background-color: #22944e;
+	flex: 4;
+	flex-grow: 1;
+}
+.RelatedPosts {
+	background-color: #e3c5e0;
+	flex: 2;
+}
+.container {
+	height: 100%;
+ 	margin: 0 auto;
+	background-color: rgba(255,255,255);
+	max-width: 1000px;
+}
+.Aside {
+	display: flex;
+	flex: 6;
+	background-color: #49c97a;
+}
+.Main {
+	flex-grow: 3;
+	flex: 6;
+	background-color: #d1b94d;
+
+}
+.middleleftsection {
+	display: flex;
+	align-self: flex-start;
+	flex-direction: column;
+}
+.middlerightsection {
+	display: flex;
+	flex: 4;
+	align-self: flex-end;
+	flex-direction: column;
+}
+.bottomposts {
+	display: flex;
+	flex-direction: row;
+	flex: 4;
+}
+footer {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	background-color: #dde843;
+}

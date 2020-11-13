@@ -1,0 +1,31 @@
+* {
+	box-sizing: border-box;
+}
+
+.container {
+	background-color: rgba(0, 0, 255, 0.5);
+	margin: 50px auto;
+	padding: 25px;
+	width: 40%;
+	height: 250px;
+	border: 1px solid #000;
+	border-top: 5px dashed #005588;
+}
+nav {
+	padding: 10px;
+	background-color: #aa4488;
+}
+nav ul li {
+	list-style: none;
+	display: inline-block;
+	width: 15%;
+	background-color: #aa2ffd;
+	padding: 10px;
+}
+nav ul li a {
+	text-decoration: none;
+}
+
+nav ul li:hover {
+	
+}

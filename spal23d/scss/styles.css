@@ -1,0 +1,8 @@
+ul {
+  display: inline-block; }
+  ul li {
+    font-size: 5; }
+    ul li a {
+      text-decoration: none; }
+
+/*# sourceMappingURL=styles.css.map */

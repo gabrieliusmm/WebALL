@@ -1,0 +1,19 @@
+header img {
+
+
+}
+header {
+	margin-left:500px;
+	margin-right:500px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.container-fluid {
+	background-color: tomato;
+}
+.container {
+	background-color: aqua;
+}
+.spinner-border {
+	font-size: 500px;
+}

@@ -1,0 +1,23 @@
+body {
+
+}
+
+article {
+	color: orange;
+	text-align: center;
+	background: black;
+	font-weight: bold;
+	font-size: 200%;
+	justify-content: center;
+	margin: 0em;
+}
+
+article:hover {
+	color: blue;
+}
+#cool {
+	font-size: 80%;
+	border: 4mm ridge rgba(170, 50, 220, .6);
+	justify-content: center;
+	margin: 0em;
+}

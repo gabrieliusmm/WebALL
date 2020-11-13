@@ -1,0 +1,14 @@
+.container {
+  width: 80%;
+  background-color: #eee; }
+  .container nav {
+    background-color: #dd88ff; }
+    .container nav li {
+      display: inline-block; }
+      .container nav li a {
+        color: #000;
+        text-decoration: none; }
+        .container nav li a:hover {
+          color: #ddff99; }
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,23 @@
+li {
+	font-size: 300%;
+}
+
+p::first-letter {
+  text-transform: uppercase;
+  color: blue; 
+}
+a[href="file.html"]:hover {
+	color: red;
+}
+a[href="file.docx"]:hover {
+	color: green;
+}
+a[href="file.pdf"]:hover {
+	color: brown;
+}
+a[href="file.png"]:hover {
+	color: yellow;
+}
+a[href="file.gif"]:hover {
+	color: purple;	
+}
